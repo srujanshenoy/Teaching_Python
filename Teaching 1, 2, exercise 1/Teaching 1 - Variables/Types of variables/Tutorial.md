@@ -23,6 +23,7 @@ We can see that it is nothing but hello! in quotes ( `""` ) asigned to the varia
 ### 2. Integers
 
 integers are just integers. ie. numbers that don't have a decimal point.They are represented by well... nothing, really.
-you could use the `int()` function to convert somthing into an integer, but thats pretty much only used when the original thing is not an integer.
+you could use the `int()` function to convert somthing into an integer, but that's pretty much only used when the original thing is not an integer.
 
 ### 3. Floats
+These are 
