@@ -1,0 +1,19 @@
+Hello!
+
+A variable is somthing like a box when it comes to programming.
+
+In line 4 of the python file, we had:-
+    price = 10
+
+Here, we can think of this line as making a box and storing the value of 10 in it, and then putting a label on it
+named "price"
+
+                                        ----========== IMPORTANT NOTE ==========-----
+
+                              python is case-sensitive. i.e. price is not the same as Price.
+
+                                        ----------=========================-----------
+
+later in the code, if we wanted, we could access it.
+
+Next, let us move on to their types.
