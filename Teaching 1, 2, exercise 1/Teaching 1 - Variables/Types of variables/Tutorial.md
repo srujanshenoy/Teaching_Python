@@ -26,4 +26,9 @@ integers are just integers. ie. numbers that don't have a decimal point.They are
 you could use the `int()` function to convert somthing into an integer, but that's pretty much only used when the original thing is not an integer.
 
 ### 3. Floats
-These are 
+
+These are numbers with a decimal point. if the result of a calculation is 1 and is stored in a float, it will be stored as 1.0
+
+### 4. Lists
+
+These are represented by `[]` . they are a list of elements seperated by commas ( `,` ) and ar euseful
